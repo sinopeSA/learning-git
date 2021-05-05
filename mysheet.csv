@@ -1,4 +1,4 @@
 group,low,middle,high,
-model1,100,125,150
-model2,50,75,100
-model3,125,130,135
+model1,100,25,25
+model2,50,25,25
+model3,125,5,5
